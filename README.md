@@ -94,3 +94,4 @@ Project kick off session, where you should get clear of for what and why this pr
 - In this project, we have followed Snowfall data modeling method.
   <img width="838" alt="Data_model" src="https://github.com/user-attachments/assets/80041e65-9143-41c8-8e3c-4d0f483416e4">
 
+### Sandeep Singh
